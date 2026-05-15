@@ -4,133 +4,141 @@
 
 ---
 
-There is a thing that happens when you first look at the night sky seriously — not a glance, but a real look. You pick out a point of light. It does not flicker the way a candle does; it pulses, slightly, because Earth's atmosphere is moving in front of it. You realize you are looking at something impossibly far away. Then you realize you do not actually know what it is. You know its name, probably. You might even know it is a "star." But if someone asked you what a star *is* — what is actually happening there, what it is made of, how far away it is, how you could possibly know any of this without going there — could you answer?
+<!-- → [IMAGE: split image — left half: a hand holding a dull grey iron meteorite fragment against a white background; right half: a full-disk solar photograph in extreme ultraviolet (NASA/SDO AIA 304 Å, orange false color) — the visual contrast between "touchable" and "untouchable" anchors the opening question before any explanation begins; caption: "One we can hold. One we can only read."] -->
 
-That gap between the name and the thing is where astronomy lives.
+I want to start with something that bothered me for a long time.
 
-<!-- → [IMAGE: wide-field photograph of the Milky Way arcing over a dark landscape — no labels, no annotation — used here to establish the visceral scale of the problem before any explanation begins; caption should read something like "The thing we are trying to understand"] -->
+You can hold a piece of iron in your hand, scrape off a sample, dissolve it in acid, and run it through a spectrometer. In an afternoon you know exactly what it is. Now I want to ask: how do we know what the Sun is made of?
 
----
+We cannot go there. The surface of the Sun is about 5,500 degrees Celsius. The nearest probe humanity has ever sent, the Parker Solar Probe, gets within about 6 million kilometers — which sounds close until you realize the Sun would still incinerate anything we tried to drop into it. We will never hold a piece of the Sun the way you can hold a piece of iron.
 
-## The Problem of Not Being Able to Go There
+And yet we know. We know the Sun is about 73% hydrogen and 25% helium, with small amounts of oxygen, carbon, neon, iron, and about sixty other elements. We know this with the same confidence a chemist knows what is in that iron sample. The question is: how is that possible? How did we figure that out from here?
 
-Here is the peculiar situation astronomers are in. A chemist can dissolve something, heat it, filter it, react it with a reagent, and measure what comes out. A physicist can build an apparatus, perturb a system, and observe the response. These are *experiments* in the strict sense: the scientist intervenes, controls variables, and measures what changes.
-
-An astronomer cannot do any of that. The Sun is 150 million kilometers away. The nearest other star is 40 trillion kilometers away. You cannot mail a probe to it and wait for results in your lifetime. You cannot poke it and see what happens.
-
-What you *can* do is receive light.
-
-Every object in the universe that has a temperature radiates light. The light carries information about where it came from — what temperature, what composition, what speed. If you can read that information, you can know things about the object without touching it. The question is: how do you read it? And — more fundamentally — why should you trust what it says?
-
-The answer to both questions is the same: *because the laws of physics are universal.*
-
-This is not obvious. It is a discovery. But it is the foundation on which all of astronomy rests, and it is worth pausing on before we do anything else.
+The answer to that question is, in a deep sense, what this entire course is about. Not just the answer itself — though I will give you that shortly — but the *structure* of the answer. Because the same method that tells us the composition of the Sun also tells us the composition of a star forty light-years away, or a galaxy four billion light-years away. Once you understand how it works, you realize it works everywhere, and that realization is one of the strangest and most wonderful things in science.
 
 ---
 
-## Why the Same Rules Apply Everywhere
+## The Thing That Makes It All Possible
 
-Drop a ball from your hand. It falls at a predictable rate — 9.8 meters per second squared, accelerating downward. This is gravity, local edition. Now ask: does gravity work the same way on the other side of the planet? On Mars? Near a distant star?
+Let me tell you about a discovery that does not get enough credit for how remarkable it is.
 
-As far as we can tell, yes. Exactly the same way, with the same mathematical form.
+Drop a ball. It falls at 9.8 meters per second squared, accelerating downward. That is gravity, as measured here. Now — does gravity work the same way on Mars? Near a distant star? At the edge of the observable universe?
 
-This is an empirical claim — a claim about how the universe actually behaves, not something we can prove from first principles. Newton wrote down his law of gravitation in 1687: every object attracts every other object with a force proportional to both their masses and inversely proportional to the square of the distance between them. He derived it from observations of the Moon and the planets. He did not declare it to be the law of the universe — he inferred it from data.
+As far as we can tell, yes. Exactly the same. Same mathematical form, same constants.
 
-But here is the remarkable thing. Once Newton had that law, it worked everywhere he tested it. The motions of Jupiter's moons. The trajectory of comets. The orbits of double stars. Even, centuries later, the bending of light around the Sun, which Einstein's theory of general relativity predicted and which astronomers confirmed. Every test said: yes, the law holds here too.
+This is an empirical claim — meaning we found it out by looking, not by reasoning from first principles. Newton wrote down his law of gravitation in 1687. He derived it from careful observations of the Moon, the planets, and the trajectories of comets. He did not sit in a room and decide that gravity must obey an inverse-square law. He noticed that the data was consistent with one, and only one, mathematical form. Then he checked it against every planetary motion he could measure. It worked.
 
-This gives astronomers their most powerful tool. If you trust that the laws of physics are universal — and the evidence for this trust is very strong — then you can use those laws to decode information from distant objects. A binary star system, two stars orbiting each other, encodes their masses in the shape of their orbit. You read the orbit from the light. You apply Newton's law. You extract the masses. You have never been within light-years of those stars, but you know how heavy they are.
+Here is what I want you to notice about what happened next. Once Newton had that law, other scientists started applying it to new situations — situations Newton had never considered. Double stars, discovered by telescopes decades later. The behavior of Jupiter's moons. The precession of Earth's axis. Every single time, the same law worked. Nobody found an exception. Eventually, we applied Newton's law to stars we cannot possibly visit, and the predictions matched the observations perfectly.
 
-The universality of physical law is what makes observational astronomy a science rather than a collection of pretty pictures.
+<!-- → [INFOGRAPHIC: timeline of tests of Newton's law of gravitation — horizontal axis from 1687 to present; labeled points: Moon's orbit (1687), Jupiter's moons (confirmed by Newton's framework), comets (Halley 1705), binary stars (Herschel 1803), stellar masses (19th c.), galaxy rotation (20th c.), gravitational waves (LIGO 2015) — each point labeled with what was tested and what was found; title: "The same law, tested across four centuries and sixty orders of magnitude in distance"] -->
 
-<!-- → [INFOGRAPHIC: two-column diagram — left column shows a lab experiment (chemist at bench, controlled variables, direct measurement); right column shows an astronomer with telescope observing a binary star system; a central arrow labeled "same physical laws" connects them — the point being that both columns reach the same knowledge through different means] -->
+That is the foundation of astronomy. The laws of physics are universal. The same rules that apply in a laboratory on Earth apply in a galaxy two billion light-years away. We know this because we have tested it, in dozens of different ways, and the universe has never once said: no, the rule is different out here.
 
----
-
-## How Science Works When You Cannot Do Experiments
-
-Let me say something more carefully about the scientific method, because it is often described in a way that makes it sound like it requires a laboratory.
-
-The structure of the method is this: you observe something, you propose an explanation, you work out what else would be true *if* your explanation is correct, and then you check whether those predictions hold.
-
-Notice that nothing in this structure requires you to intervene in the system. You just need to be able to make predictions that can be tested by observation. Astronomy satisfies this. The key is that the universe has run many experiments for you. There are a hundred billion stars in our galaxy alone. They come in different masses, different ages, different compositions, different environments. By observing many of them, you can learn the same things a laboratory experiment would teach you — without being able to touch a single one.
-
-This method is also self-correcting in a particular way. If your theory makes a wrong prediction, the universe will eventually tell you. It does not matter how beautiful the theory is, how much you like it, or how long it has been accepted. A single well-established observation that contradicts it forces a revision.
-
-The history of astronomy is full of this. The most famous example: the geocentric model of the solar system — the idea that Earth sits motionless at the center and everything else orbits around it — was not stupid. It matched observations well enough for centuries. It was built carefully by serious people. But as instruments improved and observations became more precise, the model strained. The planets did not move in quite the circles the model predicted. The fix was to add more circles — epicycles, circles riding on circles. Then more. The model grew baroque and complicated. It worked, technically, but it was clearly patching something broken.
-
-Copernicus proposed that the Sun, not Earth, sits at the center. This was simpler. Kepler refined it: planets move not in circles but in ellipses, and he wrote down mathematical laws describing exactly how. Newton showed that Kepler's laws follow necessarily from one simple principle — his law of gravitation. The whole complicated structure of epicycles collapsed into a single equation.
-
-This is what the scientific method looks like when it works. The universe preferred the simpler theory because the simpler theory made better predictions with less machinery.
-
-<!-- → [INFOGRAPHIC: side-by-side comparison — left: Ptolemaic epicycle diagram for Mars showing nested circles, visually cluttered, many labeled parameters; right: Keplerian ellipse for Mars, single clean curve, one focus labeled "Sun" — student should immediately see why one model was abandoned; caption: "Same prediction accuracy. Different amounts of machinery."] -->
+If the laws were different in different places, astronomy would not be a science. It would be a collection of pretty pictures with no explanatory power. The universality of physical law is what transforms light arriving from a distant star into information we can actually decode.
 
 ---
 
-## Reading Light
+## How You Do Science Without a Laboratory
 
-I want to say something specific about how we actually extract information from starlight, because the details matter and because it is genuinely one of the cleverest things humans have figured out.
+This is a good moment to say something careful about the scientific method, because it is usually described in a way that makes it sound like you need a controlled experiment — you manipulate a variable, you measure what changes, you draw a conclusion.
 
-White light, when passed through a prism, spreads into a spectrum of colors — from violet at one end to red at the other. Newton demonstrated this in 1666. But in 1814, Joseph von Fraunhofer did something more careful: he passed sunlight through a very narrow slit before the prism, producing a sharp spectrum. And he noticed something strange. The spectrum was not continuous. It had dark lines in it — narrow gaps where particular colors were absent.
+Astronomers cannot do that. You cannot turn a star's magnetic field on and off and see what happens to its spectrum. You get what the universe gives you.
 
-These are now called Fraunhofer lines, and they are the key to reading starlight.
+But here is the thing: the universe has run millions of experiments for you. There are roughly one hundred billion stars in our galaxy. They come in different masses, different temperatures, different ages, different chemical compositions, at different stages of their lives. By observing enough of them, you can learn the same things a controlled experiment would teach you — as long as you know the laws that connect your observations to the underlying properties.
 
-What causes them is this. Light from the Sun's hot interior tries to escape. On its way out, it passes through the Sun's cooler outer atmosphere. Atoms in that atmosphere absorb light at very specific wavelengths — wavelengths determined by the atomic structure of the element. Hydrogen absorbs at specific places. Sodium absorbs at different specific places. Calcium, iron, magnesium — each has its own fingerprint of dark lines.
+The structure of the scientific method is this: you observe something, you propose an explanation, you work out what else must be true *if* your explanation is correct, and then you check whether those predictions hold up. Notice that the method does not actually require intervention. It requires predictions that can be *tested by observation*. Astronomy satisfies this completely.
 
-By comparing the pattern of dark lines in starlight to patterns measured in laboratory experiments with known elements, you can determine what the star is made of. You are doing spectroscopy on an object forty light-years away, using methods developed in a laboratory on Earth. The reason this works is that atomic physics — the same rules — applies everywhere.
+And the method is self-correcting in a particular way. If your theory makes a prediction that turns out to be wrong, the universe will tell you. It does not matter how beautiful the theory is, or how long it has been accepted, or how much you like it. A single well-established observation that contradicts the theory forces a revision. No exceptions.
 
-<!-- → [IMAGE: actual solar spectrum showing Fraunhofer absorption lines as dark bands against the rainbow continuum, with three or four lines labeled by element (H, Na, Ca, Fe) — immediately below it, a second strip showing the same lines shifted redward for a receding star, with the shift distance labeled Δλ; this is the single most important visual in the chapter] -->
+The most famous example of this in astronomy is the shift from the geocentric to the heliocentric model of the solar system.
 
-But spectral lines tell you even more. If a star is moving toward you, the wavelengths of its lines are shifted toward shorter wavelengths — toward the blue end of the spectrum. If it is moving away, the wavelengths shift toward the red. This is the Doppler effect, and it applies to light just as it applies to sound. The formula is simple:
+The geocentric model — Earth at the center, everything orbiting around it — was not a stupid idea held by stupid people. It matched the observations well enough for centuries. It was built carefully, refined by serious mathematicians, and it made predictions that were accurate enough to navigate by. The problem was that as instruments improved and observations became more precise, the model started to strain.
+
+Planets did not quite move in the simple circles the model predicted. The fix was to add epicycles — smaller circles traced out by planets as they moved along the larger circles. When that was not enough, you added epicycles to the epicycles. The model grew complicated. It worked, technically, but anyone looking at it honestly could see that something was being patched, not understood.
+
+<!-- → [INFOGRAPHIC: side-by-side comparison — left panel: Ptolemaic epicycle diagram for Mars, showing the deferent circle, equant point, and two epicycle circles, visually busy, labeled with six tunable parameters; right panel: Keplerian ellipse for Mars, single clean curve with one focus labeled "Sun" and one labeled quantity (eccentricity = 0.093) — student should immediately register that the right panel makes the same predictions with a fraction of the machinery; caption: "Same predictive accuracy. Radically different amounts of machinery. The simpler model won."] -->
+
+Copernicus placed the Sun at the center. This was simpler. Kepler refined it further: planets move in ellipses, not circles, and he found the exact mathematical rules governing how fast they move at different points in their orbits. Newton then showed that Kepler's three rules follow necessarily from a single principle — his law of gravitation. The entire complicated structure of epicycles collapsed into one equation.
+
+The simpler theory survived because it made better predictions with less machinery. That is what the scientific method looks like when it is working correctly. The universe prefers simple explanations — or rather, nature does not arrange itself to require complexity, and when we find ourselves adding patches to patches, we are usually patching the wrong theory.
+
+---
+
+## Reading the Sun's Fingerprint
+
+Now I can answer the question I started with.
+
+White light, passed through a prism, spreads into a continuous rainbow of colors — from violet at one end to red at the other. Newton showed this in 1666. What he could not do was look closely enough at the spectrum to notice what was missing.
+
+In 1814, a German optician named Joseph von Fraunhofer did something more careful. He passed sunlight through a very narrow slit before sending it through his prism. The slit forced the light into a thin beam, which spread out into a sharp, precise spectrum. And then Fraunhofer noticed something strange: the spectrum was not quite continuous. It had dark lines in it — narrow gaps where specific colors were absent.
+
+These gaps are now called Fraunhofer lines, and they are the key to reading any star.
+
+<!-- → [IMAGE: the actual solar visible spectrum (NOAO or ESO source) — a horizontal rainbow band with the Fraunhofer absorption lines visible as thin dark vertical marks; four or five lines labeled by element and wavelength: H-alpha at 656.3 nm, Na D at 589 nm, Ca K at 393 nm, Fe at 527 nm — immediately below it, a second identical-width strip showing the same spectrum with all lines shifted 1–2 nm redward, with a double-headed arrow labeled Δλ indicating the shift and a note "receding star"; this is the single most important visual in the chapter and should appear here, not at section end] -->
+
+Here is what causes them. The interior of the Sun is extraordinarily hot — hot enough that matter exists in a state of plasma, radiating light at all wavelengths. That light tries to escape. On its way out, it passes through the Sun's cooler outer atmosphere. And atoms in that atmosphere absorb light — but not at all wavelengths equally. Hydrogen absorbs at very specific wavelengths. Sodium at different specific wavelengths. Calcium, iron, magnesium — each element has its own pattern of wavelengths it will absorb, determined by the structure of its electrons.
+
+What arrives at Earth is sunlight with specific wavelengths removed. Those removals are the dark lines Fraunhofer saw. Each pattern of lines is a fingerprint of a particular element.
+
+In a laboratory on Earth, you can heat hydrogen and observe the light it emits — or pass light through hydrogen gas and observe which wavelengths get absorbed. The pattern is always the same, because atomic physics does not vary. Then you compare that pattern to the dark lines in the solar spectrum. When you find a match, you know the Sun contains hydrogen. When you find the pattern for iron, the Sun contains iron. When you find sixty different patterns in sunlight, the Sun contains at least sixty elements.
+
+You are doing chemistry on an object 150 million kilometers away using light as your only sample.
+
+But the lines tell you something else, too. If a star is moving toward you, the wavelengths of its lines shift slightly toward the blue end of the spectrum. If the star is moving away, they shift toward the red. This is the Doppler effect — the same reason an ambulance siren sounds higher-pitched as it approaches and lower-pitched as it recedes, now applied to light. The formula is:
 
 $$\frac{\Delta\lambda}{\lambda_0} = \frac{v}{c}$$
 
-Here $\Delta\lambda$ is how much the wavelength has shifted, $\lambda_0$ is the wavelength you would measure if the star were not moving, $v$ is the speed of the star along the line of sight, and $c$ is the speed of light. Measure the shift; calculate the speed.
+Here $\Delta\lambda$ is the shift in wavelength, $\lambda_0$ is the wavelength you would observe if the star were stationary, $v$ is the star's speed along the line of sight, and $c$ is the speed of light. Measure the shift; the equation gives you the speed.
 
-This is how we detected that the galaxy is rotating, that distant galaxies are receding from us, that binary stars orbit each other. All from shifts in lines of light.
+This is how we discovered that our galaxy rotates. This is how we established that distant galaxies are moving away from us — the discovery that eventually led to the Big Bang model. This is how we detect planets orbiting other stars: the planet's gravity tugs the star slightly back and forth, and that motion shows up as a tiny Doppler shift in the star's spectral lines.
+
+All of this from dark lines in a rainbow.
 
 ---
 
 ## The Problem of Scale
 
-To do astronomy, you need to be comfortable with numbers that have no analog in daily life.
+There is one more tool you need before you can think like an astronomer, and it is not so much a scientific idea as a cognitive one. You need to get comfortable with numbers that have no analog in daily life.
 
-The distance from Earth to the Sun is about 150 million kilometers. Light crosses that gap in about 8 minutes. The distance to the nearest other star, Proxima Centauri, is about 4.25 light-years — meaning light, traveling at 300,000 kilometers per second, takes 4.25 years to make the trip. In kilometers, that is about $4 \times 10^{13}$ — forty trillion kilometers.
+The distance from Earth to the Sun is about 150 million kilometers. Light covers that gap in about 8 minutes. The distance to the nearest other star, Proxima Centauri, is about 4.25 light-years — meaning light, traveling at 300,000 kilometers per second, takes four years and three months to make the trip. In kilometers, that is roughly $4 \times 10^{13}$: forty trillion kilometers.
 
-The Milky Way galaxy is about 100,000 light-years across. The nearest large galaxy, Andromeda, is about 2.5 million light-years away. The observable universe — the sphere of space from which light has had time to reach us — has a radius of about 46 billion light-years.
+Our galaxy is about 100,000 light-years across. The nearest large galaxy, Andromeda, is about 2.5 million light-years away. The observable universe — the sphere of space from which light has had time to reach us since the beginning — has a radius of about 46 billion light-years.
 
-<!-- → [INFOGRAPHIC: logarithmic scale bar running left to right — labeled tick marks at: Earth–Moon (1.3 light-seconds), Earth–Sun (8 light-minutes), nearest star (4.25 light-years), Milky Way diameter (100,000 light-years), Andromeda (2.5 million light-years), observable universe edge (46 billion light-years) — each jump should visually dwarf the previous; this is the powers-of-ten concept made concrete before the calculation that follows] -->
+<!-- → [INFOGRAPHIC: logarithmic distance scale bar — horizontal, running left to right across the full page width; labeled tick marks at: Earth–Moon (1.3 light-seconds), Earth–Sun (8 light-minutes), Proxima Centauri (4.25 light-years), Milky Way diameter (100,000 light-years), Andromeda (2.5 million light-years), observable universe edge (46 billion light-years); each segment visually dwarfs the previous one; beneath each label, a brief human-scale anchor ("time for a text message to reach the Moon", "time for a sunburn to start", etc.) — makes the jump from intuitive to non-intuitive distances visceral before the powers-of-ten calculation that follows] -->
 
-These numbers are not meant to be visualized. They are meant to be manipulated. You work with them using powers-of-ten notation precisely because human intuition breaks down long before you reach "trillion kilometers." The notation keeps track of the exponents so your intuition does not have to.
+You cannot visualize 46 billion light-years. I cannot. Nobody can. The numbers exceed human intuition by so many orders of magnitude that trying to picture them is a waste of time. What you *can* do is manipulate them — and powers-of-ten notation exists precisely for this purpose. It keeps track of the exponents so your intuition does not have to.
 
-Here is a useful anchor: a light-year is the distance light travels in one year. Light travels at $3 \times 10^5$ kilometers per second. There are about $3.15 \times 10^7$ seconds in a year. So:
+Let me show you what I mean. A light-year is the distance light travels in one year. Light travels at $3 \times 10^5$ kilometers per second. There are about $3.15 \times 10^7$ seconds in a year. So:
 
 $$1 \text{ light-year} = (3 \times 10^5 \text{ km/s}) \times (3.15 \times 10^7 \text{ s}) \approx 9.5 \times 10^{12} \text{ km}$$
 
-About 9.5 trillion kilometers. You could walk around Earth's equator roughly 237 million times in that distance.
+About 9.5 trillion kilometers. The exponents do the work — you multiply $10^5$ by $10^7$ and get $10^{12}$. The arithmetic is trivial once you stop trying to hold the full number in your head and just track the power.
 
-But there is something more interesting than the size of these numbers. Light takes time to travel. When you look at Andromeda, you are not seeing Andromeda as it is now. You are seeing it as it was 2.5 million years ago, when the light you are now receiving left its stars. Looking out in space is, simultaneously, looking back in time.
+Now here is the piece of this that I find genuinely strange, even after having taught astronomy for years. Light takes time to travel. When you look at Andromeda, you are not seeing Andromeda as it is right now. You are seeing it as it was 2.5 million years ago — when the light you are now receiving left its stars. 2.5 million years ago, our ancestors were making stone tools in Africa. The anatomically modern human did not exist. And the light from those Andromeda stars left on its journey to your eye before any of that happened.
 
-This is not a metaphor or an approximation. It is literally true. The light reaching your eye from a star 500 light-years away left that star 500 years ago, before Copernicus published his heliocentric model. For astronomers, the sky is a record of the past — a record that gets older the farther out you look.
+This is not a metaphor or a loose analogy. It is literally true, as a direct consequence of the finite speed of light. Looking outward in space is the same thing as looking backward in time. The farther out you look, the older the image.
 
-<!-- → [INFOGRAPHIC: horizontal timeline of Earth history on the x-axis, with labeled arrows pointing right-to-left showing "light from this star left when..." — e.g., a star 500 ly away: "Copernicus not yet born"; Andromeda at 2.5M ly: "first stone tools"; a galaxy at 13B ly: "Earth does not exist yet" — makes the lookback time concept immediate and human-scaled] -->
+<!-- → [INFOGRAPHIC: concentric rings diagram centered on "Earth/observer now" — rings labeled at increasing radii with distance and corresponding lookback time: Moon (1.3 seconds ago), Sun (8 minutes ago), Proxima Centauri (4.25 years ago), galactic center (26,000 years ago), Andromeda (2.5 million years ago — "Homo habilis making stone tools"), farthest observable galaxies (13 billion years ago — "Earth does not yet exist"); the visual makes unmistakable that "looking out" and "looking back" are the same action] -->
 
-The farthest galaxies we can observe are seen as they were roughly 13 billion years ago, when the universe was young. We are reconstructing the history of the cosmos from light that has been traveling toward us since before Earth existed.
+The most distant galaxies we can observe are seen as they were roughly 13 billion years ago — less than a billion years after the universe began, long before Earth existed. What we call the "observable universe" is really an enormous archive of the past, with the oldest records in the outermost layers. Cosmology — the study of the universe as a whole — is possible precisely because light has been carrying information toward us for all that time, and we are only now collecting it.
 
 ---
 
-## What This Chapter Was Actually About
+## What It All Comes Down To
 
-Let me put the three ideas together, because they interlock.
+Let me pull together the three ideas from this chapter, because they connect.
 
-The scientific method — in its observational form — works by making predictions and testing them, without requiring experiments in the laboratory sense. This is how astronomy has been a science since Galileo, even though we cannot conduct controlled experiments on stars.
+The scientific method — in its observational form — works by making predictions and testing them against what we actually see. It does not require controlled experiments. It requires predictions that are precise enough to be falsified. Astronomy has practiced this since Galileo turned a telescope on Jupiter's moons and watched them move in exactly the way Newtonian mechanics would predict.
 
-The scientific method *works* for distant objects because the laws of physics are universal. The same gravity, the same atomic physics, the same rules for how light propagates — these apply at the edge of the observable universe as surely as they apply here. The evidence for this is strong: every test we have devised, based on the assumption of universality, has passed.
+The method works for distant objects because the laws of physics are universal. The same atomic physics that operates in a laboratory on Earth operates in a star forty light-years away. We know this because the predictions we make, based on the assumption of universality, keep coming out right. Every time we test it — with a new wavelength, a new type of object, a new distance scale — the assumption holds. That is very strong evidence.
 
-And powers-of-ten notation is how we navigate a universe whose scales span sixty orders of magnitude without losing our way. It is not a mathematical trick. It is the conceptual tool that makes it possible to think about atoms and galaxy clusters in the same framework.
+And powers-of-ten notation is how we do mathematics that spans sixty orders of magnitude without losing our grip. It is not a trick or a shorthand. It is the right tool for reasoning about a universe that ranges from subatomic particles to galaxy clusters.
 
-Together, these three ideas define what it means to be an astronomer. You receive light. You apply universal laws. You use mathematics to navigate scales your intuition cannot reach. And you test your conclusions against new observations — always.
+<!-- → [TABLE: three-column summary — column 1: "Tool"; column 2: "What it gives you"; column 3: "What breaks without it" — rows: (1) Observational scientific method / testable predictions without intervention / you collect data but cannot interpret it; (2) Universality of physical law / the right to apply Earth-derived equations to distant objects / spectroscopy and orbital mechanics become local accidents, not universal tools; (3) Powers-of-ten notation / arithmetic that spans 60 orders of magnitude / numbers become unmanipulable and intuition collapses — this table belongs here at the synthesis, not as a chapter opener; it earns its place only after the student has seen all three tools in action] -->
 
-The universe is knowable. That is the central discovery. It is not obvious, and it was not always believed. But four centuries of careful observation and theory have established it beyond reasonable doubt: the cosmos follows rules we can understand, from here, without going there.
+Those three ideas — the observational scientific method, the universality of physical law, and scale as a calculable quantity — are the conceptual infrastructure of everything that follows. When we talk about stellar evolution, or the expansion of the universe, or the formation of planetary systems, all of it will rest on these foundations. We are learning to read a record written in light, using laws we figured out here on Earth, about objects so far away that the light carrying the record left before our species existed.
+
+That strikes me as something worth understanding.
 
 ---
 
