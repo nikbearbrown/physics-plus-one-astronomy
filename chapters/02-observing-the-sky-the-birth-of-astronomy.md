@@ -4,141 +4,155 @@
 
 ---
 
-There is something I want you to notice before we get into any of the technical machinery. When you stand outside on a dark night and watch the sky, you are doing something remarkable: you are watching a system so regular, so geometric, so beautifully periodic, that it is almost impossible not to start trying to explain it. The same stars rise from the same place on the eastern horizon. They wheel across the southern sky. They set in the west. Night after night. Year after year. The predictability is so perfect that you could, if you were patient, set a clock by it.
+Here is something I want you to sit with before we do any astronomy.
 
-Now here is the thing about that predictability: it is a trap.
+Go outside tonight — or imagine you have — on a genuinely dark night, away from city lights. Watch the sky for an hour. What you will notice, if you are paying attention, is that the sky moves. The stars rise in the east, arc across the south, and set in the west. Every one of them. All at the same rate. The whole thing turns like a single rigid object, once around in twenty-four hours, as if you were standing inside a slowly rotating bowl.
 
-The trap is this — the sky *looks* like a turning dome of lights, all at the same distance from you, all painted onto a great sphere that rotates once per day. And that picture is so compelling, so consistent with every unaided observation, that very smart people believed it for two thousand years. Not because they were foolish. Because it was the most natural description of what they actually saw.
+Now here is the question I want you to hold: *Is that what is actually happening?*
 
-What I want to tell you in this chapter is how people eventually saw past it. Not by throwing away the geometry — the geometry was brilliant and is still useful — but by accumulating awkward observations that the simple picture could not explain, until a different picture became unavoidable.
+The answer is no — the sky is not a turning bowl. Earth is turning. But I want you to notice how difficult that is to see. The evidence you have in front of you, the evidence from unaided watching, is absolutely consistent with the bowl interpretation. The stars stay in fixed positions relative to each other. The bowl turns. You are at rest in the center. Everything you can observe from your backyard, for your entire life, is compatible with that picture.
 
----
-
-## The Celestial Sphere: A Coordinate System, Not a Claim
-
-The first and most important thing to understand about ancient astronomy is what kind of object the celestial sphere is. It is not a physical claim. It is a coordinate system.
-
-Think about how you describe a location on Earth. You say: this latitude, this longitude. Those coordinates are not real lines painted on the ground. They are a framework — a way of assigning numbers to points on a surface. You can use the coordinate system perfectly well without believing anything in particular about the shape of Earth. The system just says: *here is a way to describe where things are*.
-
-<!-- → [INFOGRAPHIC: side-by-side comparison of Earth's latitude/longitude grid and the celestial sphere's declination/right ascension grid — same geometry, different domain; label the celestial poles, celestial equator, and ecliptic on the right panel] -->
-
-The celestial sphere works the same way. Imagine extending Earth's rotation axis outward until it hits — conceptually, not physically — a great sphere centered on you. The two points where the axis touches the sphere are the celestial poles. Earth's equator, projected outward, is the celestial equator. Now every object in the sky has an address: its angle north or south of the celestial equator (which astronomers call declination) and its angle east or west along the equator (right ascension). Two numbers, any position.
-
-This system is powerful precisely because it makes no mechanical claim. You do not have to believe the sphere rotates. You do not have to believe Earth is still. The coordinates work regardless of what is actually moving, because they describe *direction*, not mechanism.
-
-We still use the celestial sphere today. Modern astronomers say "the quasar is at right ascension 12 hours, declination 45 degrees north," just as Hipparchus described his 850 stars in the second century BCE. The coordinate system is not wrong. It was never wrong. It is purely a description.
-
-The trap I mentioned is not the coordinate system. The trap was mistaking the description for an explanation.
+This is the situation ancient astronomers were in. Not because they were naive. Because they were honest about what they could actually see.
 
 ---
 
-## Earth Is Round, and We Knew It Very Early
+## A Coordinate System Is Not a Claim
 
-Before going further, I need to clear up something that often gets confused. The people who built the geocentric model — the ancient Greeks — knew perfectly well that Earth was a sphere. This is not something that needed to wait for Columbus or Magellan. Aristotle made two clean arguments for it around 350 BCE, and both work.
+The first thing astronomers did — and this is the step that looks obvious in hindsight but is actually a significant intellectual achievement — is they decided to describe positions before worrying about explanations.
 
-First: during a lunar eclipse, Earth's shadow falls on the Moon. That shadow has a curved edge. Always. No matter what angle you view it from. The only shape that casts a circular shadow from every direction is a sphere. A disk would sometimes cast a line, edge-on. A cube would cast a polygon. Only a sphere works for every geometry of eclipse.
+Imagine extending Earth's rotation axis outward until it intersects a great imaginary sphere centered on you. The two intersection points are the celestial poles. Earth's equator, projected outward, becomes the celestial equator. Now every point in the sky has an address: how far it is north or south of the celestial equator, which astronomers call *declination*, and how far it is east or west along the equator, which they call *right ascension*. Two numbers, any direction.
 
-Second: when you travel north, the North Star climbs higher in the sky. Stars that were near your southern horizon disappear below it. New stars appear to the north. On a flat Earth, everyone would see the same stars at the same altitude. The fact that what you see depends on where you are proves the surface curves.
+<!-- → [INFOGRAPHIC: side-by-side showing Earth's latitude/longitude grid on the left and the celestial sphere's declination/right ascension grid on the right — same geometry, different domain; label the celestial poles, celestial equator, and ecliptic on the right panel so the reader sees the two coordinate systems are structurally identical] -->
 
-But knowing the shape of Earth is not the same as knowing its size. And around 200 BCE, a Greek named Eratosthenes, working in Alexandria, decided to find out how big the sphere was, using nothing but sunlight and geometry.
+This system — the celestial sphere — makes no claim about what is moving. It does not say the sphere turns, it does not say Earth turns, it does not say anything mechanical. It is the same idea as latitude and longitude on Earth: a coordinate system, not a statement about the shape of the planet or where it sits in space.
 
-He had heard a report: in the city of Syene, far to the south, the Sun at noon on the summer solstice hung perfectly overhead. Drop a stone down a deep well and the sunlight reached the bottom — the Sun, the well shaft, and the Earth's center were all aligned.
+Hipparchus, working around 130 BCE, used a version of this to catalog roughly 850 stars. We still use the same coordinate system today. A modern astronomer says "the quasar is at right ascension 12 hours, declination 45 degrees north" exactly as Hipparchus would have described a star. The coordinates were never wrong. They were never a mistake to be corrected. They were a precise description of something real.
 
-On the same day, in Alexandria, Eratosthenes measured the shadow of a tall column. The shadow existed. The Sun was not directly overhead. The light made an angle with the vertical.
-
-<!-- → [DIAGRAM: cross-section of Earth showing Syene and Alexandria on the curved surface, with parallel sun rays arriving from the top — one ray hitting Syene at 0° angle, one hitting Alexandria at 7°, and the two radii to Earth's center illustrating that the 7° arc between cities is one-fiftieth of the full 360° circle] -->
-
-Here is the reasoning. The Sun is far enough away that its rays arrive at Earth as parallel lines — this is a good approximation. If the rays are parallel, then the angle they make with a vertical pole in Alexandria tells you something about how much the surface of Earth curves between Alexandria and Syene.
-
-Specifically: if the vertical at Syene points straight at the Sun, and the vertical at Alexandria is tilted 7 degrees away from the vertical at Syene, then the arc of Earth's surface between the two cities subtends 7 degrees at the center of Earth. And 7 degrees is $\frac{7}{360}$ of the full circle — about one-fiftieth.
-
-So if the distance between the cities is one-fiftieth of the circumference, the circumference is fifty times that distance. Eratosthenes knew the distance between the cities was about 5,000 stadia. Multiply by fifty: 250,000 stadia.
-
-Depending on which stadium he was using, this is either remarkably close to the correct answer of 40,000 kilometers, or about 20 percent too large. With a measuring stick, a shadow, and a report about a well, he took the measure of a planet. The geometry was exact. The uncertainty was in the length unit.
+The trap I mentioned earlier was not in the coordinate system. The trap was what came next: mistaking the description for an explanation. Saying not just "the sky behaves *as if* it were a turning sphere" but "the sky *is* a turning sphere, and I am at rest in the center." The description slid quietly into a claim about mechanism, and the slide happened so naturally that it was almost impossible to notice.
 
 ---
 
-## When the Sphere Is Not Enough: Retrograde Motion
+## The Size of the Thing
 
-The celestial sphere describes the motion of stars beautifully. The stars rise, wheel across the sky, and set in orderly arcs determined entirely by their declination and the latitude of the observer. If you watch any star for one night, then the next, it behaves the same way. The sphere — or equivalently, Earth's rotation — accounts for all of it.
+Before going any further, I should address something that trips people up. The ancient Greeks knew Earth was a sphere. This is not something that needed to wait for Columbus. Aristotle, around 350 BCE, made two arguments that are as clean today as they were then.
+
+During a lunar eclipse, Earth's shadow falls on the Moon. Watch the edge of that shadow. It is always curved — a circular arc, from every angle, every time. The only solid shape that casts a circular shadow regardless of how it is oriented is a sphere. A disk casts a line when seen edge-on. A cube casts a polygon. Only a sphere is always round.
+
+And: travel north, and the North Star climbs higher in the sky. Stars near your southern horizon disappear below it. New stars appear in the north. On a flat surface, every observer would see every star at the same height above the horizon. The fact that what you see depends on where you stand proves the surface curves.
+
+So: a sphere. But how big?
+
+Around 200 BCE, Eratosthenes, working as chief librarian in Alexandria, decided to measure it. He had a report from the city of Syene, far to the south: at noon on the summer solstice, the Sun was directly overhead. A stone dropped into a deep well would be lit all the way to the bottom — the Sun, the well shaft, and the center of Earth were perfectly aligned.
+
+On the same day, in Alexandria, he planted a stick in the ground and measured the angle of its shadow. The Sun was not overhead. It made an angle of about 7 degrees with the vertical.
+
+Here is the reasoning, and it is beautiful in its simplicity. The Sun is far enough away that its rays arrive at Earth essentially parallel — this is not a bad approximation. If the rays are parallel, then the angle between the vertical at Alexandria and the direction of the Sun tells you directly how much Earth's surface curves between Alexandria and Syene. An angle of 7 degrees means those two cities are separated by 7 degrees of arc as measured from Earth's center. And 7 degrees is $\frac{7}{360}$ of a full circle — roughly one-fiftieth.
+
+<!-- → [DIAGRAM: cross-section of a sphere representing Earth, with Syene and Alexandria marked on the curved surface — parallel sun rays arriving from above, one striking Syene vertically (0° shadow), one striking Alexandria at 7°; two radii drawn to Earth's center show the 7° arc between cities; label the arc, the angle at center, and annotate that this arc is 1/50 of the full 360° circle] -->
+
+So:
+
+$$\text{circumference} = 50 \times \text{distance from Alexandria to Syene}$$
+
+The distance was known to be about 5,000 stadia. Multiply by fifty: 250,000 stadia. Depending on which stadium he was using — and this is genuinely uncertain — this comes out to somewhere between the correct answer and about 20 percent too large.
+
+With a stick, a shadow, and a message about a well. He measured the planet.
+
+What I want you to see in this calculation is not just the cleverness — though it is clever. I want you to see the method. He did not need to travel to both cities at once, or build complicated instruments, or wait for some special observation. He needed to recognize that two mundane facts — a shadow angle in Alexandria and a story about a well in Syene — were connected by geometry to a single number: the circumference of the whole Earth. The art was in seeing the connection.
+
+---
+
+## The Planets Do Something Strange
+
+For most objects in the sky, the celestial sphere is all you need. A star rises, crosses the sky, and sets. The next night it does the same thing, at the same time, from the same direction. The sphere — or equivalently, Earth's rotation — completely accounts for it.
 
 The planets are different.
 
-The word "planet" comes from a Greek word meaning "wanderer." They are wanderers in a specific sense: they move against the background of the fixed stars. Watch Mars for several weeks and you will see it drift eastward through the constellations. This is ordinary enough — the planet is orbiting, and its orbital motion shows up as an apparent drift in the sky.
+The word comes from the Greek for "wanderer," and they are wanderers in a very specific sense: they move against the background of the fixed stars. Watch Mars for a few weeks and you will see it drifting eastward through the constellations. Ordinary enough — it is an orbiting body, and its motion shows up as slow apparent drift.
 
-But then something strange happens. Mars slows down. Stops. Reverses direction for a few weeks. Then stops again and continues east.
+But then something strange happens. Mars slows. Stops. Reverses. Moves west for a few weeks. Stops again. Resumes eastward.
 
-<!-- → [DIAGRAM: time-lapse star map showing Mars tracing a retrograde loop against the fixed background stars — the characteristic backward "S" or loop path, with dates marked at each reversal point] -->
+<!-- → [DIAGRAM: star-map panel showing Mars tracing a retrograde loop against fixed background stars over several months — plot the path with dated position markers at regular intervals, label the two reversal points, and annotate the eastward drift on either side of the loop; this is what an observer actually records, before any model is invoked] -->
 
-This is retrograde motion. On the celestial sphere, you simply record what happened: Mars moved east, then west, then east again. The coordinate system handles that fine. But the coordinate system offers no explanation. Something moves *independently*. The turning of the sphere accounts for the daily rising and setting of Mars. It does not account for Mars moving backward against the stars.
+On the celestial sphere, you record this faithfully — east, then west, then east. The coordinate system handles it. But the coordinate system offers no explanation. The stars do not do this. The Sun does not do this. The Moon does not do this. Mars does.
 
-For Ptolemy, working in Alexandria around 140 CE, the solution was to stack circles. Each planet moved on a small circle, called an epicycle, whose center itself moved on a larger circle, called a deferent, centered approximately on Earth. When the planet was on the inner part of the epicycle — moving backward relative to the deferent's direction — it appeared to move backward against the stars.
+For Ptolemy, working in Alexandria around 140 CE, the solution was to add circles. Each planet moved on a small circle — an *epicycle* — whose center itself moved on a larger circle — a *deferent* — roughly centered on Earth. When the planet was on the inner part of the epicycle, moving backward relative to the deferent's direction, it would appear to drift backward against the stars. When it came around the outer part, it moved forward. The combination of the two circular motions produced the observed retrograde loops.
 
-<!-- → [DIAGRAM: Ptolemy's epicycle-on-deferent construction for a single planet — label the deferent (large circle), epicycle (small circle), equant point (off-center), and Earth; draw the resulting looping path of the planet as seen from Earth] -->
+<!-- → [DIAGRAM: Ptolemy's epicycle-on-deferent construction for a single planet — draw the deferent (large circle centered near Earth), the epicycle (small circle whose center rides the deferent), and the equant point (off-center from Earth); trace the resulting looping path of the planet as seen from Earth; label all three elements so the reader can see exactly what was being added to make the model work] -->
 
-This works. Not elegantly, but functionally. And not just qualitatively: with the right choice of radii and speeds, Ptolemy's system predicted planetary positions accurately enough for navigation, for calendar-making, for astrology, for everything practical that ancient astronomers were asked to do. The Almagest, the book in which Ptolemy laid this out, was the standard astronomy text for thirteen centuries.
+This is an honest attempt to answer a real question. And it works — not elegantly, but accurately. With the right choice of radii and speeds, Ptolemy's system predicted the positions of planets well enough for navigation, calendar-making, and agricultural planning. The *Almagest*, the book where he laid this out, was the standard astronomy text for thirteen centuries. That is not a failure. Thirteen centuries of successful use is a hard result to argue with.
 
-But there was a cost. To make the predictions accurate, Ptolemy needed not just epicycles but a correction called the equant — an off-center point around which the speed of the deferent appeared constant. The equant bothered astronomers. It felt like a patch. The system was not wrong, but it was not beautiful, and in mathematics, ugliness is often a sign that something is missing.
+But there was a cost, and it accumulated. To match observations more precisely, Ptolemy needed not just epicycles but a correction called the *equant* — an off-center point from which the deferent speed appeared constant. The equant worked. It did not fit comfortably into any clean physical picture. It was a patch, and everyone who used the system knew it was a patch.
 
----
-
-## What Copernicus Changed, and What He Didn't
-
-In 1543, a Polish cleric named Nicolaus Copernicus published a book proposing that the Sun, not Earth, sat at the center of the solar system. All the planets, including Earth, orbited the Sun.
-
-Aristarchus of Samos had made the same proposal about 1,800 years earlier. He was mostly ignored, and for a reason that was not unreasonable: if Earth really orbited the Sun, then nearby stars should appear to shift position relative to distant ones as Earth moved from one side of its orbit to the other. This is parallax — the same effect that makes nearby objects appear to shift relative to far ones when you move your head. No such shift had been observed. So either heliocentrism was wrong, or the stars were unimaginably far away. The second option seemed extravagant.
-
-Copernicus brought the idea back not with new observations but with a new argument about simplicity. In his heliocentric system, retrograde motion requires no epicycles at all. It is automatic. Mars appears to move backward when Earth, orbiting closer to the Sun and therefore faster, overtakes Mars from behind. The apparent reversal is a perspective effect — the same way a slower car seems to move backward when a faster one passes it on a highway.
-
-<!-- → [DIAGRAM: top-down view of the inner solar system showing Earth overtaking Mars — draw three positions of each planet at equal time intervals, with sight lines from Earth to Mars illustrating how the apparent direction of Mars reverses as Earth passes; label the resulting retrograde arc in the inset sky view] -->
-
-This is genuinely simpler. But Copernicus made the system less simple in other ways. He kept circular orbits — incorrectly, as Kepler would later show. To match observations, he had to reintroduce epicycles of his own, albeit smaller ones. His system was not obviously more accurate than Ptolemy's. It was arguably more elegant, but elegance is not proof.
-
-The honest assessment at the moment of publication: two models, roughly equal predictive accuracy, very different philosophical assumptions. No observation available at the time could decide between them.
+This is what a model looks like when it is being forced. Not wrong — it predicted accurately — but increasingly awkward. Each new correction made the system fit better and look worse. In mathematics, and in physics, that kind of ugliness is a signal worth taking seriously.
 
 ---
 
-## Galileo's Telescope and the Evidence That Tipped the Scale
+## What Copernicus Did and Did Not Do
 
-In 1609, Galileo heard about a Dutch device — two lenses in a tube — that made distant objects appear closer. He built his own, improved it, and pointed it at the sky.
+In 1543, Copernicus proposed that the Sun sat at the center of the solar system. Earth and all the other planets orbited the Sun.
 
-I want to be specific about what he saw, because it matters.
+Aristarchus of Samos had said essentially the same thing around 310 BCE. He was mostly ignored, and for a reason that was not unreasonable: if Earth orbited the Sun, then nearby stars should appear to shift position relative to distant ones as Earth moved from one side of its orbit to the other. This is parallax — the same effect that makes a nearby fence post appear to shift against a distant hillside when you move your head. No such shift had been observed. Therefore either heliocentrism was wrong, or the stars were at almost unimaginable distances. The second option seemed extravagant in 310 BCE. It turned out to be correct — the nearest star is about 4 light-years away, and its parallax was not measured until 1838, when instruments had finally become precise enough to detect it.
 
-The Moon: not a smooth sphere but a world with mountains and craters. He estimated the height of the mountains by the length of their shadows. Earth was not the only rough, irregular object in the universe.
+What Copernicus brought, in 1543, was not new observations but a new argument about what the model required. In a heliocentric system, retrograde motion needs no epicycles at all. It falls out automatically from the geometry.
 
-Stars: the telescope revealed thousands too faint to see with the naked eye, and it showed that the fixed stars, unlike the planets, remained point-like even under magnification. This was a clue: stars were genuinely far away.
+Here is why. Earth orbits the Sun closer in, and therefore faster, than Mars does. As Earth swings around and catches up to Mars from behind, Mars appears — from Earth's moving vantage point — to first slow, then reverse, then continue forward. The same way a slower car appears to slide backward when you pass it on a highway. It is a perspective effect, not a real reversal.
 
-Jupiter: four small points of light, arranged in a line near the planet. He watched them night after night. They changed position — but they moved with Jupiter, not against it. They were orbiting Jupiter.
+<!-- → [DIAGRAM: top-down view of the inner solar system showing Earth overtaking Mars — mark three sequential positions of each planet at equal time intervals; draw sight lines from each Earth position to the corresponding Mars position; show the resulting apparent direction of Mars reversing in the inset sky-view panel at bottom; label "apparent westward motion" at the reversal to connect the geometry to what an observer actually sees] -->
 
-<!-- → [IMAGE: reproduction or faithful redrawing of Galileo's original notebook sketches of Jupiter's moons from January 1610 — the nightly position changes of the four Galilean moons that convinced him they were orbiting Jupiter] -->
+This is genuinely simpler for that one phenomenon. But Copernicus did not remove all epicycles. He kept circular orbits — incorrectly, as Kepler would show sixty years later — and to match the accuracy of Ptolemy's system, he had to introduce his own smaller epicycles. The Copernican system was not dramatically more accurate than Ptolemy's. It was differently complex. It was simpler in the explanation of retrograde motion, more complicated or roughly equivalent elsewhere.
 
-This last discovery was decisive, though not for the reason usually stated. It did not prove heliocentrism directly. What it proved was this: not everything in the solar system orbits Earth. Here were four objects clearly orbiting something else. If moons could orbit Jupiter while Jupiter moved through space, then Earth's Moon could orbit Earth while Earth moved through space. The standard geocentric objection — "if Earth moved, why doesn't the Moon get left behind?" — lost its force.
-
-Then Galileo trained his telescope on Venus and watched it over several months. Venus showed phases: crescent, quarter, gibbous, full. The full sequence. This could not happen in the geocentric model, where Venus orbits between Earth and the Sun and should never appear more than a crescent from Earth's perspective. But in the heliocentric model, Venus orbits the Sun and can come around to the far side of the Sun from Earth, appearing full. Galileo observed that when Venus appeared full, it was small. When it appeared crescent, it was large — close to Earth. This was consistent with Venus orbiting the Sun and inconsistent with Venus orbiting Earth.
-
-<!-- → [DIAGRAM: two-panel comparison — left panel shows the geocentric model with Venus between Earth and Sun, and the limited phases it would produce; right panel shows the heliocentric model with Venus orbiting the Sun, producing the full phase sequence; annotate the apparent size of Venus at crescent vs. full phase in each model] -->
-
-This was actual proof. Not of the complete heliocentric model, but of the specific claim that Venus orbits the Sun. Once you accept that, you have already given up pure geocentrism. And if Venus orbits the Sun, the heliocentric arrangement of the inner solar system is required.
+The honest assessment at the moment of publication: two systems, comparable predictive accuracy, very different foundational assumptions. No observation then available could decide between them. What Copernicus had done was show that a different assumption — the Sun at the center — required fewer conceptual patches to explain retrograde motion, even if the full system was not obviously simpler in every way. That was worth taking seriously, but it was not proof.
 
 ---
 
-## The Pattern That Matters
+## The Evidence That Decided It
 
-What I want you to take from this is not a list of discoveries. I want you to see the *architecture* of how the model changed.
+In 1609, Galileo heard about a Dutch optical instrument — two lenses in a tube — that made distant objects appear closer. He built his own and improved it, achieving magnification of about 20 times. Then he pointed it at the sky.
 
-Start with the celestial sphere. It describes positions correctly. It makes no mechanical claim and requires none. It is useful and remains useful.
+The observations I want to focus on are two, because they are the ones that actually bear on the heliocentric question.
 
-Add Ptolemy. He needed to explain motion, not just describe position. The mechanism he proposed — circles on circles — was an inference from the constraint that the observations had to fit and the assumption that Earth was at the center. Given those two inputs, it was a reasonable construction. It predicted accurately.
+First: Jupiter. Near it, Galileo noticed four small points of light, arranged roughly in a line. He watched them over several nights. They moved — but they moved with Jupiter, not against it. Their arrangement changed, but they stayed near Jupiter. They were clearly orbiting Jupiter.
 
-Add the accumulation of awkward patches. The equant. The multiple epicycles. Each one a small correction that made the system work better and look worse. This is what a model looks like when it is being forced to fit facts it was not designed for.
+<!-- → [IMAGE: faithful redrawing of Galileo's notebook sketches of Jupiter's moons from January 7–15, 1610 — show the nightly position changes of the four Galilean moons as he recorded them, with dates; the point is that the reader sees the same evidence Galileo saw: four lights that move with Jupiter but shift position relative to each other] -->
 
-Add Copernicus. He showed that a different starting assumption — the Sun at the center — eliminated most of the patches without any loss of predictive accuracy. He could not prove his assumption. But the fact that it needed fewer epicycles was a reason to take it seriously.
+This discovery did not prove that Earth orbits the Sun. What it proved was that not everything in the solar system orbits Earth. Here were four objects with a different center of rotation. If moons could orbit Jupiter while Jupiter traveled through space, then Earth's Moon could orbit Earth while Earth traveled through space. The standard geocentric objection — "if Earth moved, the Moon would be left behind" — was simply wrong. You could have a moving Earth and a Moon that followed it. Jupiter demonstrated exactly that arrangement.
 
-Add Galileo. He supplied something neither Ptolemy nor Copernicus had: observations that distinguished between the two models. The phases of Venus could not be explained by Ptolemy. They fell out naturally from Copernicus. The model choice was no longer a matter of philosophical preference about where the center should be. It was a matter of evidence.
+Second, and more decisive: Venus. Over several months, Galileo watched Venus go through a full sequence of phases — crescent, quarter, gibbous, full. The full cycle.
 
-<!-- → [TABLE: four-row summary of the model progression — columns: Model/Person, Central Assumption, What It Explained, What Required Patches, What Broke It; rows: Celestial Sphere, Ptolemy, Copernicus, Galileo's Evidence] -->
+This is the observation that distinguishes the two models cleanly.
 
-This is the pattern: accumulate observations, build a model that fits, watch the model accumulate patches to handle new observations, find a cleaner model that needs fewer patches, then find observations that can decide between them. The celestial sphere is still in use. Ptolemy's epicycles are gone. Not because anyone proved they were wrong in some abstract sense, but because a better description made them unnecessary.
+In Ptolemy's geocentric system, Venus orbits between Earth and the Sun, always on our side of the Sun. From Earth, we would only ever see it as a crescent or thin sliver — never more than half-lit, never full. The geometry simply does not permit a full Venus in geocentrism.
+
+In the heliocentric system, Venus orbits the Sun. It can come around to the far side of the Sun from Earth, at which point we see the fully illuminated face — full Venus. When it is on our side, close to Earth, it is a crescent. When it is far, on the other side of the Sun, it is small and full.
+
+<!-- → [DIAGRAM: two-panel comparison — left panel: geocentric model with Venus orbiting between Earth and Sun, showing the limited crescent-only phases it predicts; right panel: heliocentric model with Venus orbiting the Sun, showing the full phase sequence and the corresponding apparent size of Venus at each phase; annotate that when Venus is full it is small, and when it is a crescent it is large — the size-phase correlation is what Galileo observed and what only the right panel explains] -->
+
+Galileo observed both things simultaneously: when Venus appeared as a large crescent, it was near Earth and large; when it appeared full, it was small and distant, on the far side of the Sun. This matched the heliocentric prediction exactly. It was flatly inconsistent with Ptolemy.
+
+This was not a matter of preferring one model's elegance over another's. It was an observation that one model predicted and the other could not accommodate. The geocentric model of Venus was falsified by a telescope in 1610.
+
+---
+
+## The Structure of What Happened
+
+I want to step back and describe the architecture of this episode, because the architecture is more important than the list of names and dates.
+
+The celestial sphere began as pure description: positions, no mechanism. Exact, useful, still in use today.
+
+Ptolemy added mechanism. He had two constraints: match the observations, and keep Earth at the center. Given those constraints, epicycles were a reasonable construction. The system predicted accurately for thirteen centuries.
+
+Then the patches began to accumulate. The equant. Smaller epicycles to correct larger ones. Each patch kept the system working. Each patch made the system look more like something that was being forced to fit rather than something that was right.
+
+Copernicus showed that changing one assumption — moving the Sun to the center — eliminated the biggest class of patches. He could not prove the assumption. But a model that needs fewer patches, given comparable accuracy, is reason for suspicion about the more complicated one.
+
+Galileo supplied something different from all of this: an observation that the two models predicted differently. Before his telescope, the choice between geocentrism and heliocentrism was partly a matter of philosophical taste — both fit the available data. After the phases of Venus, it was no longer a matter of taste. One model predicted them. One did not.
+
+<!-- → [TABLE: five-row progression of the model — columns: Figure/System, Central Assumption, What It Explained Well, Where It Required Patches, What Broke or Superseded It; rows: Celestial Sphere (Hipparchus), Ptolemy, Copernicus, Galileo's Observations; final row left blank as a prompt for the reader to fill in "Kepler/Newton"] -->
+
+This is the general structure of how models improve: description precedes explanation, explanation accumulates patches when wrong, a simpler explanation emerges, and eventually an observation decides. Notice that the celestial sphere — the pure description — survived all of this. It was never wrong. It was never a mistake. Ptolemy's mechanism was wrong. The coordinate system was not.
+
+And notice one more thing: the stars being very far away, which seemed extravagant when Aristarchus proposed it, turned out to be the correct answer to the parallax problem. The observation that seemed to refute heliocentrism in 310 BCE was not evidence against heliocentrism. It was evidence that the stars were at almost incomprehensible distances. Sometimes the extravagant answer is right.
 
 ---
 
@@ -164,7 +178,7 @@ The ideas in this chapter didn't appear from nowhere. **Caroline Herschel** disc
 Who was Caroline Herschel, and how does her observational work on comets and nebulae connect to the birth of modern observational astronomy we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
 ```
 
-→ Search **"Caroline Herschel"** on Wikipedia. See what the model got right, got wrong, or left out.
+Search **"Caroline Herschel"** on Wikipedia. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
