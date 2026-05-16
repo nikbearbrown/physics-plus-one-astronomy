@@ -4,161 +4,137 @@
 
 ---
 
-In July 1994, twenty-one pieces of a comet struck Jupiter over the course of six days. Each fragment hit with the energy of thousands of nuclear weapons. The debris clouds that rose from the impacts were the size of Earth and remained visible for weeks. Telescopes all over the world, and in orbit, watched it happen in real time.
+Here is a question worth sitting with. If you looked at the solar system without knowing anything about how it formed, you would notice something strange: the four planets close to the Sun are small, rocky, and dense, and the four planets farther out are enormous, made mostly of gas and ice. Why should that be? Why should distance from the Sun have anything to do with what a planet is made of?
 
-The event was not just spectacular. It was a reminder. The solar system is not a finished, settled place. It is still in progress. The same process that scattered comets and hurled rocks at Jupiter 4.5 billion years ago continues today, slower, but not stopped.
+The answer turns out to be temperature. The young solar system was a disk of gas and dust, and the disk was hotter close to the Sun and colder farther out. Temperature determined what could freeze and what had to stay gas. Everything in the arrangement of the solar system — why the inner planets are rocky, why the outer planets are giants, why there is an asteroid belt, why comets exist at all — follows from that one fact about temperature in a rotating disk 4.5 billion years ago.
 
-What you see when you look at the planets is not their current state. It is the accumulated record of everything that has happened to them since they formed. Craters are not random scarring. They are a clock. Composition is not arbitrary. It is the consequence of where a planet formed and how hot it was when it did. Every world in the solar system is an archive. The question is how to read it.
+What the planets look like now is not what they looked like then. The solar system is not a finished place. It is a record — of formation, collision, heating, cooling, bombardment, and migration — written in rock and ice and atmosphere. This chapter is about learning to read that record.
 
 ---
 
-## The Inventory
+## What Is Out There
 
-The solar system contains one star, eight major planets, at least 430 known moons, five recognized dwarf planets, thousands of smaller icy bodies beyond Neptune, an asteroid belt between Mars and Jupiter, and enough dust and comets and scattered debris to fill volumes. Let me say what matters most about this list.
+Let me start with a quick inventory, because the facts themselves are surprising.
 
-The Sun holds 99.8% of all the mass. Nothing else is close. Jupiter, the largest planet, is 0.1% of the total. This asymmetry is not cosmetic. It shaped everything else that happened.
+The Sun holds 99.8% of all the mass in the solar system. Not most of it — nearly all of it. Jupiter, the next largest object, is 0.1% of the total. Everything else — all the planets, all the moons, all the asteroids and comets and dust — amounts to the remaining 0.1%. This asymmetry is not a minor detail. It shaped everything.
 
-The eight planets divide sharply into two populations, and the division is not just a matter of size.
+The eight major planets divide sharply into two populations. The inner four — Mercury, Venus, Earth, Mars — are small, rocky, and dense. Their surfaces are solid. You could land a spacecraft on any of them. They are made primarily of silicate rock and iron. The outer four — Jupiter, Saturn, Uranus, Neptune — are giants. Jupiter alone could contain all four terrestrial planets about three hundred times over. They are made mostly of hydrogen, helium, water, methane, and ammonia — precisely the materials absent from the rocky planets.
 
-The inner four — Mercury, Venus, Earth, Mars — are small, rocky, and dense. You could, in principle, land a spacecraft on any of them. They are made primarily of silicate rock and iron. They have solid surfaces. Some have atmospheres; some barely do. They are the heaviest mineral residue left behind after the formation process stripped the inner solar system of everything lighter.
+Between Mars and Jupiter sits the asteroid belt: thousands of rocky bodies that never merged into a planet, held in check by Jupiter's gravitational interference. The largest, Ceres, is massive enough that gravity pulled it into a sphere. Most are irregular lumps. These are not the debris of a destroyed planet. They are planetesimals that never finished the job of becoming one.
 
-The outer four — Jupiter, Saturn, Uranus, Neptune — are giants. Jupiter alone could contain all four terrestrial planets about 300 times over. They are made mostly of hydrogen, helium, water, methane, and ammonia — the exact elements that are absent from the rocky planets. The common name "gas giant" is misleading: at Jupiter's interior pressures, the hydrogen is liquid, possibly metallic. "Giant planet" is the better term.
+Beyond Neptune lie two reservoirs of icy bodies. The Kuiper Belt is a disk-shaped region from roughly 30 to 50 AU from the Sun. The Oort Cloud is a diffuse sphere extending perhaps a quarter of the way to the nearest star. Comets come from both. When their orbits are nudged inward — by a gravitational interaction, by a passing star — they fall toward the Sun, their ices vaporize, and they grow tails.
 
-Between Mars and Jupiter: the asteroid belt, thousands of rocky bodies that never merged into a planet. The largest, Ceres, is round — massive enough that gravity pulled it into a sphere. Most are irregular lumps. These are not the remains of a destroyed planet. They are planetesimals that never finished the job of becoming one, held back by Jupiter's gravity.
-
-Beyond Neptune: dwarf planets, and a vast reservoir of icy objects stretching outward in two populations. Some orbit in the Kuiper Belt, a disk-shaped region from 30 to 50 AU from the Sun. Others belong to the Oort Cloud, a diffuse sphere extending perhaps a quarter of the way to the nearest star. Comets come from both regions. When their orbits are nudged inward — by a gravitational interaction, by a passing star — they fall toward the Sun, their ices vaporize, and they grow tails.
-
-The giant planets each have rings — Saturn's famous, the others faint but real. And the moons: Jupiter has 95 known, Saturn 146. Some are tiny and irregular. Others are worlds. Ganymede is larger than Mercury. Titan has a nitrogen atmosphere thicker than Earth's. Europa has a liquid-water ocean under its ice.
-
-This is the inventory. The next question is why it is arranged this way.
-
-<!-- → [INFOGRAPHIC: the solar system laid out as a single horizontal strip — Sun at far left, then the eight planets in order with correctly scaled relative sizes (not distances, which would be unreadable at true scale); each planet labeled with its type (Terrestrial / Giant) and one key distinguishing fact; asteroid belt and Kuiper Belt marked as shaded regions; the visual goal is a single glance that shows both the two-population split and the dramatic size contrast between inner and outer planets] -->
+And the moons. Jupiter has 95 known moons. Saturn has 146. Some are tiny, captured rocks. Others are worlds: Ganymede is larger than Mercury, Titan has a thicker atmosphere than Earth, Europa has a liquid-water ocean under its ice. The solar system's diversity does not live only in the planets.
 
 ---
 
 ## Why the Inner Planets Are Rocky and the Outer Planets Are Not
 
-The answer requires going back to the beginning.
+This is the question the inventory poses, and it has a clean answer.
 
-The solar system formed from a rotating disk of gas and dust — the solar nebula — surrounding the young Sun about 4.5 billion years ago. This disk was not uniform in temperature. Close to the Sun, where material was orbiting faster and collisions between particles were more energetic, the disk was hot. Farther out, it was cold.
+The solar system formed from a rotating disk of gas and dust surrounding the young Sun about 4.5 billion years ago. The disk was not uniform. Close to the Sun, where material was orbiting faster and collisions between particles were more energetic, the disk was hot. Farther out, it was cold.
 
-Temperature determined what could condense into solid particles and what remained gas.
+Temperature determined what could condense into solid particles.
 
-In the inner solar system — roughly inside the orbit of Mars — the disk was hot enough that water, methane, and ammonia stayed gaseous. They did not freeze. They did not condense. The only things that solidified were the heavier, less volatile compounds: silicates and metals. Rock and iron. The particles that could stick together and grow were made of this heavy residue. So the inner planets, built from those particles, are rocky.
+In the inner solar system — roughly inside the orbit of Mars — the disk was hot enough that water, methane, and ammonia stayed gaseous. They did not freeze. They did not condense into particles that could stick together and grow. The only things that solidified were the heavier, less volatile compounds: silicates and metals. Rock and iron. So the inner planets, built from those particles, are rocky.
 
-Farther out, beyond a boundary that astronomers call the frost line — roughly four times Earth's distance from the Sun, somewhere in the asteroid belt — the disk was cold enough for water to freeze. Beyond the frost line, ice was available as a building material. Planetesimals could be made from both rock and ice. More material was available, so cores could grow larger.
+Beyond a boundary astronomers call the frost line — roughly four times Earth's distance from the Sun, in the outer asteroid belt region — the disk was cold enough for water to freeze. Ice became available as a building material. Planetesimals could be made from both rock and ice. More material was accessible, so cores could grow larger.
 
-Here is where the story of the giant planets diverges from the story of the terrestrial planets.
+When a core growing in the outer solar system reached roughly ten Earth masses, something different happened. Its gravitational pull became strong enough to capture the hydrogen and helium floating in the surrounding disk — gases the inner solar system had never been cold enough to condense. Jupiter grabbed enormous amounts. Saturn grabbed nearly as much. Uranus and Neptune formed farther out, where the disk was already thinning and gas was dissipating; they ended up smaller, with proportionally larger rocky and icy cores.
 
-When a core growing in the outer solar system reached roughly ten times Earth's mass, something different happened. Its gravitational pull became strong enough to capture the hydrogen and helium floating in the surrounding disk — gases that the inner solar system had never been cold enough to condense. Jupiter grabbed enormous amounts. Saturn grabbed nearly as much. Uranus and Neptune formed farther out, where the disk was thinner and the remaining gas was already dissipating, so they ended up smaller, with proportionally larger rocky and icy cores relative to their gaseous envelopes.
-
-The result is the arrangement we see. The composition of each planet is not an accident. It is a thermometer — a record of where in the disk that planet formed and what the temperature was there. Rocky planets are where the disk was too hot for ice. Giant planets are where it was cold enough to build large cores and then capture gas.
-
-<!-- → [INFOGRAPHIC: cross-section of the solar nebula as a horizontal band with the Sun at left — a temperature gradient runs from hot (orange/red) near the Sun to cold (blue) at right; the frost line is marked as a vertical dashed line at ~4 AU; to the left of the frost line, labeled particles are silicate grains and iron; to the right, labeled particles add water ice and ammonia ice; below the band, four terrestrial planets cluster left of the frost line, two giant planets form right of it with arrows showing gas capture; the visual makes the causal chain from temperature → condensation → planet type immediate] -->
+The result is the pattern you see. Each planet's composition is a thermometer — a record of where in the disk that planet formed and what the temperature was there. Rocky planets mark where the disk was too hot for ice. Giant planets mark where it was cold enough to build large cores and then capture gas. The architecture of the solar system is frozen chemistry.
 
 ---
 
-## What Happens Inside a Hot, Molten Planet
+## Heat, Differentiation, and the Life History of a Planet
 
-All of this started hot. Every forming planet was heated by two processes simultaneously.
+Every forming planet started hot. Two processes heated them simultaneously.
 
-The first was collision energy. Planetesimals hitting each other at high speeds convert kinetic energy to heat. When you build a planet by slamming billions of rocks together, the planet gets hot. Very hot — hot enough to melt.
+The first was collision energy. Planetesimals hitting each other at high speeds convert kinetic energy to heat. When you build a planet by slamming billions of rocks together over millions of years, the planet melts. Not metaphorically — literally. The early Earth was probably entirely molten, a global magma ocean.
 
-The second was radioactive decay. The rock that formed the early solar system contained radioactive isotopes, unstable atoms that release energy as they decay. Packed into a growing planetary body, this decay heated the interior continuously for millions of years.
+The second was radioactive decay. The rock of the early solar system contained unstable atomic nuclei that released energy as they decayed. Packed into a growing planetary body, this decay heated the interior continuously for millions of years.
 
-Once the interior melted, gravity took over in a process called differentiation. Dense materials — iron, nickel — sank toward the center, forming a core. Lighter silicate rocks floated toward the surface, forming the mantle and crust. A layered planet emerged from what had been a disordered mixture.
+Once the interior melted, gravity took over. Dense materials — iron, nickel — sank toward the center, forming a core. Lighter silicate rocks floated upward, forming the mantle and crust. A layered planet emerged from what had been a disordered mixture. This process is called differentiation, and it happened to every terrestrial planet and every large moon.
 
-This happened to every terrestrial planet. It happened differently to each one afterward, because size determines how long a planet retains heat.
+What happened afterward depended on size.
 
-A small body — an asteroid, the Moon — has more surface area relative to its volume. It radiates heat into space efficiently and cools quickly. The Moon's interior is now essentially dead. No volcanic eruptions. No earthquakes worth noting. A geologically frozen world.
+A small body has more surface area relative to its volume. It radiates heat efficiently and cools quickly. The Moon is geologically dead. Its interior is cold and rigid. No volcanoes. No earthquakes worth mentioning. A frozen snapshot of conditions from nearly four billion years ago.
 
-A larger body — Earth, Venus — retains its internal heat much longer. Earth's interior is still partially molten 4.5 billion years after formation. Plate tectonics, volcanic eruptions, mountain building — these are not ancient curiosities. They are happening now, powered by the heat that the planet has been slowly bleeding off since it formed.
+A larger body retains its internal heat much longer. Earth's interior is still partially molten. Plate tectonics, volcanic eruptions, mountain building — these are not ancient events. They are happening now, powered by heat that the planet has been slowly bleeding off since it formed. Venus is similarly active, though its tectonics work differently. Mars, intermediate in size, cooled faster than Earth and slower than the Moon. The enormous extinct volcanoes visible on its surface are evidence of a geological past that has now gone quiet.
 
-Mars is intermediate in size. It cooled faster than Earth but slower than the Moon. Evidence on its surface suggests it was geologically active in its past — enormous volcanoes, the largest in the solar system, are present but appear dormant or extinct. Mars ran out of internal heat before Earth did.
-
-Size is fate, for a planet's geological history.
-
-<!-- → [TABLE: four-column comparison of Moon, Mars, Venus, Earth — rows: diameter (km), mass (relative to Earth), estimated time to geological death, current geological activity (dead / declining / active) — the student should see the monotonic relationship between size and how long internal heat is retained; caption: "The same internal heat, bleeding out at different rates"] -->
+Size is fate. The geological history of a planet is largely determined by how long it takes to cool.
 
 ---
 
-## How We Know How Old Things Are
+## Reading Age From a Surface
 
-The age of a planetary surface is not written on it in numbers. We have to read it indirectly.
+The age of a planetary surface is not printed on it. We read it indirectly.
 
-The first method is crater counting. The solar system has been bombarded since its formation, though the rate has declined over time. The early solar system was a shooting gallery; today it is much quieter but not empty. A surface that has been exposed for a long time accumulates craters. A surface recently resurfaced — by a lava flow, by an ocean, by wind and water erosion — starts fresh, with few craters.
+The most visible method is crater counting. The solar system has been bombarding itself since formation. The rate was very high early on and has declined over time. A surface exposed for a long time accumulates craters. A surface recently resurfaced — by lava, by ocean water, by wind erosion — starts fresh with few craters.
 
-Count the craters, and you are counting not the age of the planet but the age of that particular surface. The Moon's heavily cratered highlands are ancient, roughly 4 billion years old. The darker, smoother maria — the flat plains that fill the low spots — are younger, formed when later volcanic eruptions covered the older terrain. The cratered highlands and the maria are made of the same Moon. Their surfaces are different ages.
+Count the craters on a region of the Moon's surface, and you are reading the age of that particular surface, not the age of the Moon as a whole. The Moon's heavily cratered highlands are ancient, roughly 4 billion years old. The darker, smoother maria — flat plains that fill the lower elevations — formed later, when volcanic eruptions covered and erased the earlier terrain. They carry fewer craters because they have been exposed for less time. The same Moon. Different surfaces. Different ages.
 
-The limit of crater counting is that it gives relative ages — older than, younger than — not absolute ages in years.
+Crater counting gives relative ages: older than, younger than. For absolute ages — actual numbers of years — we use a clock the rock carries inside itself: radioactive decay.
 
-<!-- → [IMAGE: side-by-side photographs of two lunar regions — left: heavily cratered highland terrain; right: smooth dark mare with sparse craters — each labeled with its approximate age derived from radiometric dating of returned samples (highlands ~4.0–4.1 Ga; mare ~3.0–3.5 Ga); caption: "The same Moon. Different surfaces. Different ages. Crater density is the clock."] -->
+Certain atomic nuclei are unstable and decay into different nuclei at a fixed rate, unaffected by temperature, pressure, or chemistry. The rate is described by a half-life — the time for half of a given sample to decay. Uranium-238 has a half-life of 4.47 billion years. It decays to lead-206. If you measure the ratio of uranium to lead in a rock, and you know when the rock solidified from melt and became a closed system, you can calculate how long ago that happened.
 
-For absolute ages, we use a clock that the planet carries inside itself. Radioactive decay.
+When Apollo astronauts brought back Moon rocks, scientists dated them. The oldest samples came back at about 4.5 billion years old. The Moon formed nearly at the same moment the solar system did, and its surface has changed only slowly since then. Earth, dated the same way, is the same age. This convergence — crater counting calibrated against absolute radiometric dates — gives us the timeline of the solar system. We know when formation essentially ended, when the heavy bombardment tapered off, and when specific volcanic flows resurfaced parts of the Moon.
 
-Certain atomic nuclei are unstable. They decay into different nuclei at a rate that is fixed, measurable, and unaffected by temperature, pressure, or chemistry. The rate is described by a half-life: the time required for half of a given sample to decay. Uranium-238 has a half-life of 4.47 billion years. It decays to lead-206. If you measure the ratio of uranium to lead in a rock, and you know the half-life, you can calculate when the rock solidified — when the clock started.
-
-The method requires that the rock was a closed system after it solidified: no lead leaking in or out, no uranium added or removed. When those conditions hold, the ratio tells you the age with high precision. Different radioactive systems — potassium to argon, rubidium to strontium — provide independent checks. If three different clocks agree, you can be confident.
-
-When Apollo astronauts brought back Moon rocks in 1969, scientists dated them immediately. The result surprised many: the oldest samples were about 4.5 billion years old. The Moon was ancient. Not geologically young — geologically dead, frozen in place since nearly the moment of formation. Earth, it turned out, is the same age. The two formed together.
-
-This convergence of methods — crater counting calibrated against radiometric dates — gives us the timeline of the solar system. We know when the formation period ended. We know roughly when the heavy bombardment tapered off. We know when specific volcanic eruptions resurfaced parts of the Moon. The solar system has a dateable history.
+The solar system has a history we can read.
 
 ---
 
 ## Why the Early Solar System Was Violent
 
-The planetary orbits we see today look stable and orderly. They were not always this way.
+The orbits of the planets today look stable. They were not always this way.
 
-In the earliest period — the first few hundred million years — the inner solar system contained not eight planets but many more embryos: growing bodies on crossing orbits, colliding at high speeds. Most of these collisions built larger worlds. Some were catastrophic enough to destroy growing planets or blast off material that later reassembled elsewhere.
+In the first few hundred million years, the inner solar system was not eight planets but many more embryos — growing bodies on crossing orbits, colliding at high speeds. Most collisions built larger worlds. Some were catastrophic.
 
-The Moon is probably the product of one such collision. A body roughly the size of Mars struck the early Earth at an oblique angle. The impactor and part of Earth's outer layers were vaporized and flung into orbit. This debris gradually coalesced into the Moon. The evidence for this hypothesis comes from several directions: the Moon has almost exactly the same composition as Earth's outer layers; it is almost entirely depleted of iron, consistent with the iron having already sunk to Earth's core before the impact; and the angular momentum of the Earth-Moon system is what you would expect from a large oblique collision.
+The Moon is probably the product of one such catastrophe. A body roughly the size of Mars struck the early Earth at an oblique angle. The impactor and part of Earth's outer layers were vaporized and thrown into orbit. This debris gradually coalesced into the Moon. The evidence is specific. The Moon has almost exactly the same composition as Earth's outer mantle — the rocks match closely. The Moon is almost entirely depleted of iron, consistent with the iron having already sunk to Earth's core before the impact, leaving only iron-poor material to be flung outward. The angular momentum of the Earth-Moon system is what you would calculate for a large oblique collision.
 
-Uranus is almost certainly the product of a similar event — a giant impact that knocked the planet nearly on its side. Uranus orbits the Sun with its rotational axis tilted 98 degrees from vertical, essentially rolling on its side. No gradual process would do this. A large collision would.
+Uranus is probably the product of a similar event. Its rotational axis is tilted 98 degrees from vertical. It orbits the Sun essentially rolling on its side. No gradual process produces this. A large impact would.
 
-<!-- → [INFOGRAPHIC: four-panel sequence illustrating the Giant Impact Hypothesis — (1) early Earth and a Mars-sized impactor on converging orbits; (2) oblique collision, material vaporized and flung outward; (3) debris ring in Earth orbit; (4) debris coalesced into the Moon; each panel annotated with one key physical consequence (e.g., panel 4: "Moon depleted of iron — core already sunk in Earth before impact"); this makes the inference chain from observation to hypothesis concrete and sequential] -->
+The giant planets themselves almost certainly migrated. Theoretical models suggest Jupiter and Saturn formed farther from the Sun than their current positions, then moved inward and back outward — a gravitational ballet that scattered enormous numbers of comets and asteroids through the inner solar system, contributing to the heavy bombardment recorded in the Moon's ancient craters. The details remain actively debated. What is not debated is the violence itself.
 
-The giant planets themselves may have migrated. Theoretical models suggest Jupiter and Saturn formed farther from the Sun than their current positions, then moved inward and back outward — a gravitational ballet that scattered comets and asteroids through the inner solar system, contributing to the heavy bombardment recorded in the Moon's ancient craters. These models, collectively called the Grand Tack and the Nice model, fit many observations but are not settled. The details of how migration happened, and why it stopped, remain under active debate.
-
-What is not in debate is the violence itself. The solar system's early years were nothing like today. The ordered, stable arrangement you see now is the survivor of an initial chaos. The planets that exist are the ones that survived — and some of their properties, including perhaps the existence of our Moon and the angle of Earth's axis, are direct consequences of catastrophic collisions in the first few hundred million years.
+The ordered stability of the solar system today is not the original state. It is what survived.
 
 ---
 
-## Comparative Planetology: What the Differences Teach Us
+## What the Differences Teach Us
 
-The real power of studying the solar system is comparison.
+The real power of studying the solar system is comparison, and the comparison I want to dwell on involves three nearly identical starting conditions that produced radically different outcomes.
 
-Venus and Earth are almost identical in size, mass, and distance from the Sun. They formed from the same material in roughly the same region of the solar nebula. By all rights, they should be similar worlds. Instead, Venus is the most hostile surface in the solar system. Its atmosphere is 96% carbon dioxide, 90 times denser than Earth's. Its surface temperature is about 465 degrees Celsius — hot enough to melt lead. A spacecraft landed on Venus in 1982 survived for just over two hours before succumbing to the heat and pressure.
+Venus and Earth are almost the same size, almost the same mass, formed in the same region of the solar nebula from the same material. They should be similar worlds. Venus is not. Its atmosphere is 96% carbon dioxide, ninety times denser than Earth's. Its surface temperature is about 465 degrees Celsius — hot enough to melt lead. A Soviet spacecraft that landed in 1982 survived for just over two hours before the heat and pressure destroyed it.
 
-The difference between Venus and Earth is atmosphere. Venus experienced a runaway greenhouse effect. Carbon dioxide accumulated, trapping heat, raising temperature, causing more carbon dioxide to be released from rock, trapping more heat. A feedback loop with no natural brake. Earth, with its oceans to absorb carbon dioxide and its plate tectonics to recycle carbonates into the interior, avoided the same fate — or at least has so far.
+The difference is a feedback loop. Carbon dioxide traps heat. Higher temperature drives more carbon dioxide out of rocks. More carbon dioxide traps more heat. On Venus, this loop ran away. On Earth, the oceans absorb carbon dioxide and plate tectonics recycles carbonates into the interior, providing a brake on the process. Earth has stayed within the range where liquid water is stable for 4.5 billion years. Venus escaped from that range and never returned.
 
-Mars offers the opposite lesson. Mars is half Earth's diameter and one-tenth Earth's mass. Its gravity is too weak to hold a thick atmosphere. Its interior cooled quickly and stopped generating the magnetic field that protects a planet's atmosphere from being stripped away by the solar wind. Mars's atmosphere is now less than 1% as thick as Earth's. Its surface is cold, dry, and exposed to radiation. Yet Mars has dried riverbeds, ancient lake basins, and mineral deposits that form only in the presence of liquid water. Mars was warmer and wetter billions of years ago. Something stripped it of that warmth. The planet that might have been habitable is now not.
+Mars offers the opposite lesson. Mars is half Earth's diameter and one-tenth Earth's mass. Its gravity is too weak to hold a thick atmosphere. Its interior cooled quickly and stopped generating the magnetic field that shields a planet's atmosphere from being stripped away by the solar wind. Today Mars's atmosphere is less than 1% as thick as Earth's, its surface cold, dry, and exposed to radiation.
 
-Beneath the ice shell of Jupiter's moon Europa, there is an ocean. We have not seen it directly. We infer it from measurements of the moon's magnetic field, from the flexibility of the ice shell as Europa is flexed by Jupiter's tidal gravity, from the chemistry of material that has come up through cracks in the ice. The ocean is probably as deep as 100 kilometers. It has been liquid for billions of years. Whether it contains life is unknown. But the conditions for life — liquid water, chemical gradients, energy from tidal heating — appear to be present.
+Yet Mars has dried riverbeds, ancient lake basins, and mineral deposits that form only in the presence of liquid water. Mars was warmer and wetter billions of years ago. It lost that warmth because it was too small to hold what Earth holds: a thick atmosphere maintained by ongoing geology, a magnetic field maintained by an active core.
 
-This is why comparative planetology matters. We are not cataloguing curiosities. We are learning which conditions produce habitable worlds, and which do not. We happen to have a solar system full of natural experiments — eight major planets, dozens of large moons, thousands of smaller bodies — each one a variant on the theme of planetary formation. By reading the differences among them, we can begin to understand why Earth turned out the way it did.
+And then there is Europa, the fourth-largest of Jupiter's moons. Under its icy surface there is an ocean — probably 100 kilometers deep, liquid water in contact with a rocky seafloor, probably for billions of years. We have not seen this ocean directly. We infer it from the way Europa's magnetic field is perturbed by Jupiter's, consistent with a conducting layer of saltwater beneath the ice. We infer it from the flexibility of the ice shell as Jupiter's tidal gravity flexes the moon. We infer it from chemistry that has come up through cracks in the ice. Whether that ocean contains life is unknown. The conditions for life — liquid water, chemical gradients, energy from tidal heating — appear to be present.
 
-<!-- → [TABLE: comparison of Venus, Earth, Mars, Europa — rows: distance from Sun (AU), surface/ocean temperature, atmospheric pressure (relative to Earth), presence of liquid water (surface/subsurface/none), current habitability verdict — the table makes the comparative argument visual and lets the reader scan what changed between the worlds; caption: "Three terrestrial planets and one moon: similar starting conditions, radically different outcomes"] -->
+Hold these three cases together. Venus, Earth, and Mars started similarly and diverged because of differences in size, distance from the Sun, and the feedback loops those differences created. Europa is something different again — a world heated not by starlight but by tidal flexing, with an ocean that has never seen sunlight.
+
+The solar system contains many natural experiments. By reading the differences between them, we can start to understand which conditions produce habitable worlds and which ones do not. We do not yet know whether the conditions that produced Earth are common in the galaxy or rare. But the place to start working out the answer is in the worlds we already know.
 
 ---
 
 ## What the Solar System Is, at Bottom
 
-Four things, working together, produced the solar system we see.
+Four things working together produced everything we see.
 
-**Temperature** determined what could condense where. The frost line divided the rocky inner system from the icy outer system. This single fact explains the most striking feature of the solar system's architecture: why the composition of planets changes so dramatically with distance from the Sun.
+Temperature determined what could condense where. The frost line divided the rocky inner system from the icy outer system, and that single boundary produced the most obvious feature of the solar system's architecture — the two-population split between the inner and outer planets.
 
-**Gravity** did the work of assembly, pulling dust into grains, grains into planetesimals, planetesimals into planets. The same gravity that assembled the planets also drove differentiation, separating iron from rock inside every large body, and drove the capture of gas by giant planet cores once they grew massive enough.
+Gravity assembled everything. Dust into grains, grains into planetesimals, planetesimals into planets. The same gravity then drove differentiation inside every large body, separating iron from rock, and drove gas capture once giant planet cores grew massive enough.
 
-**Heat** — from collisions and radioactive decay — melted young planets and set them differentiating. How long a planet retained that heat determined whether it remained geologically active or cooled into silence.
+Heat — from collisions and radioactive decay — melted young planets and set them layering by density. How long each retained that heat determined whether it remained geologically active for billions of years or cooled into geological silence within a few hundred million.
 
-**Collisions** — some gentle enough to build, some violent enough to reshape — left their marks on every world. Craters are the most visible record, but the shapes of planets, the presence of moons, the tilts of axes, and the current orbits are all partly consequences of impacts.
+Collisions marked every surface and altered the trajectories of several planets. The Moon exists because of a collision. Uranus's tilt exists because of a collision. Earth's axial tilt, which the Moon now stabilizes, may be partly a consequence of impacts in the early solar system.
 
-None of this required special conditions. It is what happens to a rotating disk of gas and dust orbiting a young star, given time and ordinary physics. The same process is occurring right now around other stars. We can watch it with telescopes sensitive enough to see through the dust. The solar system is not unique. It is one instance of a process that the galaxy runs constantly, in billions of locations, producing an enormous variety of outcomes.
+None of this required special conditions. It is what happens to a rotating disk of gas and dust orbiting a young star, given time and ordinary physics. Telescopes sensitive enough to see through dust can watch the same process happening right now around other stars — young disks, clearing gaps, building planets. The solar system is not unique. It is one instance of something the galaxy runs constantly and has been running for billions of years.
 
-What made our outcome habitable is still being worked out. We know that Jupiter's position was important — it absorbs or deflects many of the comets and asteroids that would otherwise reach the inner system. We know the Moon stabilizes Earth's axial tilt, preventing the extreme swings that might make the climate erratic. We know Earth's plate tectonics regulate carbon dioxide and moderate climate over geological timescales. Each of these factors may be common, or may be rare.
-
-The answer matters, because it tells us whether planets like Earth are common in the galaxy or exceptional. We do not yet know.
+Whether our particular instance is common or exceptional is still being worked out. It is one of the most important open questions in science.
 
 ---
 
